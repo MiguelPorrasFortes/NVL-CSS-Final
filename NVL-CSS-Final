@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>NVL-CSS-Final</title>
+    <style>    
+      header {
+              text-align: center;
+              color: #BD36A8;      
+      }      
+      * {
+         box-sizing: border-box;
+      }      
+      .box {
+            float: left;
+            width: 33.33%;
+            padding: 50px;
+      }
+      .box {
+            float: left;
+            width: 33.33%;
+            padding: 50px;            
+          }     
+     .right {
+          float: right;
+          position: relative;
+          top: 10px;
+          margin: 8px; 
+  
+     }
+     .left {
+            float: left;
+            position: relative;            
+            margin: 8px; 
+            top: 10px;   
+     }
+    .clearfix {
+               overflow: auto;    
+    }
+    body {
+          font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif;
+          color: #BD36A8;     
+    }    
+    p {
+       font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+       color: black;   
+    }
+    h2 {
+        text-align: center;    
+    }
+    </style>
+  </head>
+  <body background="https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=background-blur-clean-531880.jpg&fm=jpg">
+    <header><h1 id="Home">STANLEY KUBRICK FILMS</h1> </header>
+    <div class="clearfix">
+      <div class="box" style="background-color:#6C9FA2;">
+      <h2>List of films by the visionary director</h2>
+      <ul>
+      <li><i><a href="#Killing">The Killing (1956)</a></i></li><br>  
+      <li><i><a href="#Paths">Paths of Glory (1957)</a></i></li><br>
+      <li><i><a href="#Spartacus"> Spartacus (1960)</a></i></li><br>	
+      <li><i><a href="#Lolita">Lolita (1962)</a></i></li><br>
+      <li><i><a href="#Strangelove">Dr. Strangelove (1964)</a></i></li><br>
+      <li><i><a href="#2001">2001: A space odyssey (1968)</a></i></li><br>  	 
+      <li><i><a href="#Clockwork">A clockwork orange (1971)</a></i></li><br>    
+      <li><i><a href="#Barry">Barry Lyndon (1975)</a> </i></li><br> 
+      <li><i><a href="#Shining">The Shining (1980)</a></i></li><br> 
+      <li><i><a href="#Metal">Full metal jacket (1987)</a></i></li><br>   
+      <li><i><a href="#Eyes">Eyes wide shut (1999)</a> </i></li><br> 
+      </ul>
+     </div>
+  <div class="box" style="background-color:#82C7CB">
+    <div>    
+    <h2 id="Killing"><i>The Killing</i></h2>
+     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/TheKillingPosterKubrick.jpg/220px-TheKillingPosterKubrick.jpg" alt="Killing" class="left"><br> 
+    <p>After just being released from a five year stint in prison, Johnny Clay has assembled a five man team, including two insiders, to carry out what he estimates will be a $2 million heist at Lansdowne Racetrack, that take, minus expenses, to be split five ways. Besides Johnny, none of the men truly are criminals in the typical sense. In addition to the other four team members, Johnny has hired two men external to the team to carry out specific functions for a flat fee, the other four who will not meet the two men for hire or know who they are, while the two men for hire will not be told of the bigger picture of the heist. None involved are to tell anyone, even their loved ones, about the job, each of the five who has a specific reason for wanting his share of the money: Johnny, in wanting to get married to his longtime girlfriend Fay, the two who have known each other since they were kids, realizes that to live comfortably, he has to shoot for the moon instead of carrying out the penny</p> 
+    <a href="#Home">Back to Top</a>
+    </div>    
+    <div>   
+    <h2 id="Paths">Paths of glory</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/PathsOfGloryPoster.jpg/220px-PathsOfGloryPoster.jpg" alt="Paths" class="right"><br>
+    <p>1916. The trench warfare between the French and Germans on the battlefields of France results in little advancement of troops on either side - each advancement in tens of meters rather than kilometers - but in many casualties. Thus, the request by French General George Broulard to his subordinate General Paul Mireau to lead an attack to capture the Anthill, a key German held position which is just visible from the current French trench position, is generally regarded as futile. The request is largely one out of want for personal glory for the French military's upper echelon with little regard for the soldiers. Mireau hesitates in accepting the assignment until he learns that a prestigious promotion is on the line, one that is his regardless of success or failure. The regiment he assigns to carry out the attack is led by Colonel Dax <a href="#Kirk"> (Kirk Douglas)</a>, who has no other option but to obey orders despite both he and Mireau knowing the regiment's casualties would number over half without any guarantee of success. While Mireau's eyes are on his own personal gain, Dax is concerned both with carrying out the mission to the best of his ability while protecting his soldiers as a collective. What happens on the battlefield leads to a further rift in overall beliefs between Mireau and Dax in what is best for French society. What also results from the battle is a legal issue scapegoating three of Dax's soldiers, he who will protect his men to the best of his abilities against the cards stacked against them by the military elite.</p> 
+    <a href="#Home">Back to Top</a>    
+    </div> 
+    <div>   
+    <h2 id="Spartacus"> Spartacus</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Spartacus_sheetA.jpg/220px-Spartacus_sheetA.jpg" alt="Spartacus" class="left"><br> 
+    <p>In 73 B.C., a Thracian slave leads a revolt at a gladiatorial school run by Lentulus Batiatus (Sir Peter Ustinov). The uprising soon spreads across the Italian Peninsula involving thousand of slaves. The plan is to acquire sufficient funds to acquire ships from Silesian pirates who could then transport them to other lands from Brandisium in the south. The Roman Senator Gracchus (Charles Laughton) schemes to have Marcus Publius Glabrus (John Dall), Commander of the garrison of Rome, lead an army against the slaves who are living on Vesuvius. When Glabrus is defeated his mentor, Senator and General Marcus Licinius Crassus (Sir Laurence Olivier) is greatly embarrassed and leads his own army against the slaves. Spartacus <a href="#Kirk">(Kirk Douglas)</a> and the thousands of freed slaves successfully make their way to Brandisium only to find that the Silesians have abandoned them. They then turn north and must face the might of Rome.</p> 
+    <a href="#Home">Back to Top</a>    
+    </div>
+    <div>   
+    <h2 id="Lolita">Lolita</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/LolitaPoster.jpg/220px-LolitaPoster.jpg" alt="Lolita" class="right"><br>
+    <p>Humbert Humbert forces a confrontation with a man, whose name he has just recently learned, in this man's home. The events that led to this standoff began four years earlier. Middle aged Humbert, a European, arrives in the United States where he has secured at job at Beardsley College in Beardsley, Ohio as a Professor of French Literature. Before he begins his post in the fall, he decides to spend the summer in the resort town of Ramsdale, New Hampshire. He is given the name of Charlotte Haze as someone who is renting a room in her home for the summer. He finds that Charlotte, widowed now for seven years, is a woman who puts on airs. Among the demonstration of those airs is throwing around the name of Clare Quilty<a href="#Peter">(Peter Sellers)</a>, a television and stage script writer, who came to speak at her women's club meeting and who she implies is now a friend. Those airs also mask being lonely, especially as she is a sexually aggressive and liberated woman. Humbert considers Charlotte a proverbial "joke" but decides to rent the room upon meeting Charlotte's provocative daughter, Dolores Haze - more frequently referred to as Lolita - who he first spots in a bikini tanning in the back yard. He is immediately infatuated with Lolita, with who he becomes obsessed in a sexual manner despite her age, she being just into her teens. He will also learn that Charlotte has the exact same feelings for him. While Charlotte does whatever she can to be alone with Humbert, Humbert does the same with Lolita. As the summer progresses, Humbert, based on the circumstances, decides to enter into a relationship with Charlotte just to be near Lolita. In that new arrangement, Humbert has to figure out how to achieve his goal of being with Lolita with Charlotte out of the way. As things begin to go Humbert's way, he is unaware that Charlotte is not the only thing standing in his way between him and Lolita, that other thing being Lolita's possible interest in other boys, and other members of the male sex, young or old, who may have their own designs on Lolita.</p>
+    </div>
+    <a href="#Home">Back to Top</a>    
+    <div>    
+    <h2 id="Strangelove">Dr. Strangelove</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Dr._Strangelove_poster.jpg/220px-Dr._Strangelove_poster.jpg" alt="Strangelove" class="left"><br>
+    <p>Paranoid Brigadier General Jack D. Ripper <a href="#Peter">(Peter Sellers)</a> of Burpelson Air Force Base, believing that fluoridation of the American water supply is a Soviet plot to poison the U.S. populace, is able to deploy through a back door mechanism a nuclear attack on the Soviet Union without the knowledge of his superiors, including the Chair of the Joint Chiefs of Staff, General Buck Turgidson, and President Merkin Muffley. Only Ripper knows the code to recall the B-52 bombers and he has shut down communication in and out of Burpelson as a measure to protect this attack. Ripper's executive officer, RAF Group Captain Lionel Mandrake (on exchange from Britain), who is being held at Burpelson by Ripper, believes he knows the recall codes if he can only get a message to the outside world. Meanwhile at the Pentagon War Room, key persons including Muffley, Turgidson and nuclear scientist and adviser, a former Nazi named Dr. Strangelove, are discussing measures to stop the attack or mitigate its blow-up into an all out nuclear war with the Soviets. Against Turgidson's wishes, Muffley brings Soviet Ambassador Alexi de Sadesky into the War Room, and get his boss, Soviet Premier Dimitri Kisov, on the hot line to inform him of what's going on. The Americans in the War Room are dismayed to learn that the Soviets have an as yet unannounced Doomsday Device to detonate if any of their key targets are hit. As Ripper, Mandrake and those in the War Room try and work the situation to their end goal, Major T.J. "King" Kong, one of the B-52 bomber pilots, is working on his own agenda of deploying his bomb where ever he can on enemy soil if he can't make it to his intended target.</p>  
+    </div>
+    <a href="#Home">Back to Top</a>    
+    <div>    
+    <h2 id="2001">2001: A space odyssey</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/2001_A_Space_Odyssey_%281968%29.png/220px-2001_A_Space_Odyssey_%281968%29.png" alt="Space" class="right"><br>
+    <p>A black monolith has an affect on humans, the monolith's effects focusing on two specific time periods. The first period is four million years ago, at the dawn of man. After the appearance of the monolith, the ape men begin to display behavior unknown before then. The second period is the near future, in the year 2001. There are five astronauts aboard Discovery One, which is on a mission to Jupiter. At the beginning of the mission, the reason for it is unknown to the five astronauts. Three of the astronauts are in hibernation at the start of the mission to preserve the manpower over its entire course, leaving mission commander Dr. Dave Bowman and Dr. Frank Poole as the two manning the spacecraft. There is another what is often considered "sixth" astronaut on board, HAL 9000 - referred to simply as Hal - the artificial intelligent computer which controls all of the craft's functions, including the systems keeping the three hibernating astronauts alive. Hal is made all the more astronaut-like as it is given an artificial voice, Hal and the astronauts often having conversations. A 9000 series computer is considered infallible, any error one has ever made being human caused. Ultimately, Bowman and Poole believe that Hal is malfunctioning, they are unaware that Hal's behavior is due to knowledge of classified information it has about events at Clavius, a lunar outpost, eighteen months earlier. However, the issue between the astronauts and Hal becomes a fight for survival. The mission in its entirety has profound consequences for the human race.</p>   
+    </div>
+    <a href="#Home">Back to Top</a>    
+    <div>    
+    <h2 id="Clockwork"> A clockwork orange </h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/A_Clockwork_Orange_%281971%29.png/220px-A_Clockwork_Orange_%281971%29.png" alt="Clockwork" class="left"><br> 
+    <p>In a near-futuristic society, late teen Alex DeLarge<a href="#Malcom">(Malcom McDowell)</a> is the leader of a gang of thugs - his "droogs" - who commit acts of ultra-violence, often with sexual components, without any regard for their victims, and purely because it strikes their collective fancies. These acts are largely fueled by drug use. In addition, Alex is a lover of music, especially that of Ludwig van Beethoven, which, when he listens to it during these acts, intensifies his pleasure, and in turn inspires him to commit further such acts. He does not tolerate any challenge to his leadership by his droogs. Although the authorities in general know of Alex's delinquency, they have so far been unable to catch him in the act of his crimes, until one night after a sexual assault of an older woman. Alex, and Alex alone is charged, convicted and incarcerated. But Alex sees what he believes is an easy way out when the government looks for subjects to participate in a new rehabilitation therapy, the end result being release from prison after the two week therapy. The therapy ends up having consequences that Alex did not envision. The questions become how Alex will function, and how others will act toward him in his changed state.</p>       
+    </div>
+    <a href="#Home">Back to Top</a>    
+    <div>    
+    <h2 id="Barry"> Barry Lyndon</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Barry_Lyndon_A.jpg/220px-Barry_Lyndon_A.jpg" alt="Barry" class="right"><br>     
+    <p>In the Eighteenth Century, in a small village in Ireland, Redmond Barry <a href="#Ryan">(Ryan O'Neal)</a> is a young farm boy in love with his cousin Nora Brady. When Nora gets engaged to the British Captain John Quin, Barry challenges him to a duel of pistols. He wins and escapes to Dublin but is robbed on the road. Without an alternative, Barry joins the British Army to fight in the Seven Years War. He deserts and is forced to join the Prussian Army where he saves the life of his captain and becomes his protégé and spy of the Irish gambler Chevalier de Balibari. He helps Chevalier and becomes his associate until he decides to marry the wealthy Lady Lyndon. They move to England and Barry, in his obsession of nobility, dissipates her fortune and makes a dangerous and revengeful enemy. </p>    
+    </div>
+    <a href="#Home">Back to Top</a>    
+    <div>    
+    <h2 id="Shining"> The Shining </h2>
+     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/The_Shining_%281980%29.png/220px-The_Shining_%281980%29.png" alt="Shining" class="left"><br>
+    <p>A novelist - Jack Torrance<a href="#Jack">(Jack Nicholson)</a> takes a job interview as winter caretaker of the isolated, old, huge and beautiful Overlook Hotel. In the interview, Jack is told by the manager himself, that the previous caretaker - Grady, chopped his family and later killed himself with a shotgun. Ignoring the story, Jack brings his wife - Wendy and his son Danny. It happens that Danny, has a mysterious power known as "The Shining" that shows him things from the past and future. Some of the visions come from Tony - "the little boy who lives in Danny's mouth". Danny meets Hallorann - the hotel cook in their first day arriving at the Overlook, who also has this "Shining" and he warns him about the hotel and the sinister Room 237. As the days go by, Danny has visions of previous guests and employees who died at the hotel years before, meanwhile Jack starts driving into insanity, turning more and more aggressive, at the point that Danny and Wendy gets convinced that Jack might try to do the same thing, Grady did. </p>    
+    </div>
+    <a href="#Home">Back to Top</a>    
+    <div>    
+    <h2 id="Metal"> Full metal jacket</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Full_Metal_Jacket_poster.jpg/220px-Full_Metal_Jacket_poster.jpg" alt="Full" class="right"><br> 
+    <p>Full Metal Jacket begins by following the trials and tribulations of a platoon of fresh Marine Corps recruits focusing on the relationship between Gunnery Sergeant Hartman and Privates Pyle and Joker. We see Pyle grow into an instrument of death as Hartman has foreseen of all of his recruits. Through Pyle's torment and Joker's unwillingness to stand up against it the climax of part one is achieved with all three main characters deciding their fates by their action or inaction. The second chapter delves into Joker's psyche and the repeated referral to the fact that he joined the Corps to become a killer. When his mostly behind the scenes job as a combat correspondent is interfered with by the Tet offensive he is thrust into real combat and ultimately must decide if he really is a killer.</p>   
+    </div>
+    <a href="#Home">Back to Top</a>    
+    <div>    
+    <h2 id="Eyes">Eyes wide shut</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Eyes_Wide_Shut_%281999%29.png/220px-Eyes_Wide_Shut_%281999%29.png" alt="Eyes" class="left"><br>  
+    <p> Dr. Bill and Mrs. Alice Harford are a young, upper middle class couple living in a lavish apartment along Central Park West with their seven year old daughter, Helena Harford. It's the Christmas season, and like they have been the past several years, they are invited to the annual lavish Christmas ball hosted by Victor Ziegler, one of Bill's wealthy patients. Based on their individual encounters at the party, which includes Bill secretly providing his professional services to a guest, Bill and Alice have a frank discussion, largely initiated by Alice, about their sex life, their sexual fantasies - most specifically if those fantasies include other people - and fidelity. As a result, Bill begins to notice those sexual opportunities available to him outside of their marriage. Although he contemplates seizing upon some of those opportunities, it's the one mentioned to him by Nick Nightingale - a former medical school colleague who dropped out to become a full time musician, and who was the pianist at Victor's party, where he and Nick were reacquainted - that piques Bill's interest the most. Bill's interest is probably increased by Nick's pleas for him not to follow-up on what he tells him. That opportunity is a secret, by invitation only party, the latest in a series, where Nick is hired to play blindfolded, with the party location divulged to him only one hour prior to his arrival. It was during a previous party that Nick saw beneath his blindfold that it was a sex party, all the participants dressed in costume and wearing masks, probably to provide anonymity to all the attendees. Bill is able to sneak his way into this latest party, which is even more elaborate than his wildest fantasies. But what happens at the party may irreparably affect his marriage, his sex life with Alice, and their lives in their entirety. </p>  
+    <a href="#Home">Back to Top</a>     
+    </div>    
+    </div>   
+    <div class="box" style="background-color:#98F0F5">
+    <h2>Collaborators</h2>>
+    <h3 id="Kirk">Kirk Douglas</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirk_douglas_photo_signed.JPG/220px-Kirk_douglas_photo_signed.JPG" alt="Kirk" class="left"><br>
+    <p>Kirk Douglas (born Issur Danielovitch; Yiddish: ישור דניאלאָװיטש‎; December 9, 1916) is an American retired actor, filmmaker, and author. A centenarian, he is one of the last surviving stars of the film industry's Golden Age.[2] After an impoverished childhood with immigrant parents and six sisters, he made his film debut in The Strange Love of Martha Ivers (1946) with Barbara Stanwyck and Lizabeth Scott. Douglas soon developed into a leading box-office star throughout the 1950s, known for serious dramas, including westerns and war movies. During his career, he appeared in more than 90 movies. Douglas is known for his explosive acting style, which he displayed as a criminal defense attorney in Town Without Pity (1961). </p>
+    <a href="#Home">Back to Top</a>
+    <h3 id="Peter">Peter Sellers</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Peter_Sellers_at_home_in_Belgravia%2C_London%2C_1973.jpg/220px-Peter_Sellers_at_home_in_Belgravia%2C_London%2C_1973.jpg" alt="Sellers" class="right"><br>
+    <p>Peter Sellers, CBE (born Richard Henry Sellers; 8 September 1925 – 24 July 1980) was an English film actor, comedian and singer. He performed in the BBC Radio comedy series The Goon Show, featured on a number of hit comic songs and became known to a worldwide audience through his many film characterisations, among them Chief Inspector Clouseau in The Pink Panther series of films. </p>
+    <a href="#Home">Back to Top</a>    
+    <h3 id="Malcom"> Malcom McDowell</h3>  
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Malcolm_McDowell_-_1977.jpg/170px-Malcolm_McDowell_-_1977.jpg" alt="Malcom" class="left">
+    <p>Malcolm McDowell (born Malcolm John Taylor; 13 June 1942) is an English actor, known for his boisterous and often villainous roles. He trained as an actor at the London Academy of Music and Dramatic Art.
+
+     In a career spanning over 50 years, McDowell has played varied film roles across different genres as a character actor. He is perhaps best known for the controversial roles of Alex DeLarge in Stanley Kubrick's A Clockwork Orange (1971), the title character in Tinto Brass's Caligula (1979), and Mick Travis in Lindsay Anderson's trilogy of if.... (1968), O Lucky Man! (1973) and Britannia Hospital (1982). He has appeared in films such as Time After Time (1979), Cat People (1982), Star Trek Generations (1994), Tank Girl (1995), Gangster No. 1 (2000), as Dr. Samuel Loomis in the 2007 remake of Halloween and its 2009 sequel, Halloween II, Easy A (2010) and The Artist (2011).
+
+      McDowell has had a string of roles on numerous television series such as Entourage (2006–2007; 2009–2011), Heroes (2007–2008), Franklin & Bash (2011–2014) and Mozart in the Jungle (2014–2018). He narrated the documentary The Compleat Beatles (1982), and in recent years has become a prolific voice actor in films, television series and video games such as Metalocalypse (2007–2012), Bolt (2008), Fallout 3 (2008), God of War III (2010), Call of Duty: Black Ops III (2015) and The Elder Scrolls Online (2015). He received a star on the Hollywood Walk of Fame in 2012</p>
+    <a href="#Home">Back to Top</a>    
+    <h3 id="Ryan">Ryan O'Neal</h3> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ryan_Oneal_-_1968.jpg/220px-Ryan_Oneal_-_1968.jpg" alt="Ryan" class="right">   
+    <p>Charles Patrick Ryan O'Neal[1] (born April 20, 1941) is an American actor and former boxer.[2] O'Neal trained as an amateur boxer before beginning his career in acting in 1960. In 1964, he landed the role of Rodney Harrington on the ABC nighttime soap opera Peyton Place.[3] The series was an instant hit and boosted O'Neal's career. He later found success in films, most notably Love Story (1970), for which he received Academy Award and Golden Globe nominations as Best Actor,[4] Peter Bogdanovich's What's Up, Doc? (1972) and Paper Moon (1973), Stanley Kubrick's Barry Lyndon (1975), Richard Attenborough's A Bridge Too Far (1977), and Walter Hill's The Driver (1978). From 2005 to 2017, he had a recurring role in the Fox TV series Bones as Max,[5] the father of the show's protagonist.</p>    
+    <a href="#Home">Back to Top</a>    
+    <h3 id="Jack">Jack Nicholson</h3> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jack_Nicholson_2001.jpg/220px-Jack_Nicholson_2001.jpg" alt="Jack" class="left">  
+    <p>John Joseph Nicholson (born April 22, 1937) is an American actor and filmmaker who has performed for over sixty years. He is known for playing a wide range of starring or supporting roles, including comedy, romance, and darkly comic portrayals of anti-heroes and villainous characters. In many of his films, he has played the "eternal outsider, the sardonic drifter", someone who rebels against the social structure.[1] </p> 
+    <a href="#Home">Back to Top</a>  
+    </div>
+  </div> 
+  <footer style="text-align: center;"><h1>A Production by Miguel Porras Entertainment 2019</h1></footer>
+  </body>
+</html>
